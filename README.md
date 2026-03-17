@@ -5,7 +5,7 @@
 
 1. [Simple GenAI Application using LangChain](#simple-genai-application-using-langchain)
     *   [Legacy Approach](#legacy-approach)
-    *   [Modern Apparoch (LangChain v1+ with LCEL)](#modern-apparoch-langchain-v1-with-lcel)
+    *   [Modern Approach (LangChain v1+ with LCEL)](#modern-approach-langchain-v1-with-lcel)
 2. [GenAI App - Code Assistant](#genai-app---code-assistant)
     *   [Legacy Approach](#legacy-approach---code-assistant)
     *   [Modern Approach](#modern-approach---code-assistant)
@@ -44,7 +44,7 @@ if __name__ == "__main__":
 
 ---
 
-### Modern Apparoch (LangChain v1+ with LCEL)
+### Modern Approach (LangChain v1+ with LCEL)
 
 ```python
 from langchain_openai import ChatOpenAI
